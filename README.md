@@ -4,7 +4,8 @@
 FerchoMG/FerchoMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Blue Gradient Crypto Exchange Banner](https://user-images.githubusercontent.com/107383705/208010957-b4f43ab4-1500-4f82-9670-71ad407f53f4.png)
+
+![Blue Gradient Crypto Exchange Banner](https://user-images.githubusercontent.com/107383705/208680836-710ccf6d-050b-4f95-9403-86f37c17194d.png)
 
 
 - 🔭 Actualmente estoy trabajando **de Freelancer y en proyectos personales**
