@@ -18,8 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Preguntame sobre **CSS, HTML, Dart**
 
-- 📫 Como llegar a mi **fmolina1505@utm.edu.ec**
-
 - ⚡ Fun fact **Futbol, Videogames, Aprender cosas nuevas**
 
 <h3 align="center">Connect with me:</h3>
