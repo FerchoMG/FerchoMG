@@ -20,12 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **Futbol, Videogames, Aprender cosas nuevas**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/ferchomg9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferchomg9" height="30" width="40" margin="10" /></a>
-<a href="https://instagram.com/imferchoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imferchoo" height="30" width="40" margin="10" /></a>
-<a href="https://www.youtube.com/c/ferchodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ferchodev" height="30" width="40" margin="10" /></a>
-</p>
+
 
 <h3 align="center">Lenguajes Web:</h3>
 <p align="center"> 
